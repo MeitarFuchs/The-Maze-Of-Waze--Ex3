@@ -1,0 +1,10 @@
+package Ex6;
+
+public class t4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+????????????
+	}
+
+}
